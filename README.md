@@ -6,3 +6,6 @@
     - Character
     - Addition
     - Substration
+- Mutiplication has two ways
+    - mul
+    - mult
