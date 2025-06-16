@@ -11,3 +11,5 @@
     - mult
 - Division has been done
     - div
+- Conditional Branching
+    - beq , bne
