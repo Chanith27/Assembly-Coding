@@ -15,3 +15,5 @@
     - beq , bne
     - blt , ble
     - bgt , bge
+- While Loop
+    - jal , jr
