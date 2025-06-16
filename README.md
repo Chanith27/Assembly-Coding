@@ -13,3 +13,5 @@
     - div
 - Conditional Branching
     - beq , bne
+    - blt , ble
+    - bgt , bge
